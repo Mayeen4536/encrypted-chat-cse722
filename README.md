@@ -45,16 +45,16 @@ The goal of this project is to implement **hybrid encryption** in a real-time ch
 ### 1️⃣ Start the Server
 
 python client.py
-# Start as (server/client)? server
-# Port to listen on [default 9999]: 50000
+Start as (server/client)? server
+Port to listen on [default 9999]: 50000
 
 
 ### 2️⃣ Start the Client
 
 python client.py
-# Start as (server/client)? client
-# Enter server IP: 127.0.0.1   (or LAN IPv4 if on separate devices)
-# Server port [default 9999]: 50000
+Start as (server/client)? client
+Enter server IP: 127.0.0.1   (or LAN IPv4 if on separate devices)
+Server port [default 9999]: 50000
 
 
 ---
