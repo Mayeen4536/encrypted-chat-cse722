@@ -91,12 +91,17 @@ README.md       # Project documentation
 
 ## 📷 Sample Screenshots
 **Before Encryption — RSA Public Key (plaintext)**  
-*(Insert Wireshark screenshot here)*
+<img width="619" height="590" alt="image" src="https://github.com/user-attachments/assets/2ab5b375-79b5-431e-8074-465b3e88cab8" />
+
 
 **After Encryption — AES Ciphertext (unreadable)**  
-*(Insert Wireshark screenshot here)*
+<img width="619" height="595" alt="image" src="https://github.com/user-attachments/assets/7eaabc61-ca4d-480c-a98f-4f801470698c" />
+
 
 ---
+<img width="1919" height="805" alt="image" src="https://github.com/user-attachments/assets/e639080e-cbc4-44c7-bfef-cf75a0b0a16c" />
+
+
 
 ## 📜 License
 This project is for academic purposes only under the CSE722 course at BRAC University.
