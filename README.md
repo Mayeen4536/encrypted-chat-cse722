@@ -1,7 +1,7 @@
 # Project — Encrypted Chat Application (RSA + AES-256)
 
 ## Overview
-This project is a **two-way encrypted chat application** built in Python for the CSE722 Applied Cryptography course.  
+This project is a **two-way encrypted chat application** built in Python for practicing Applied Cryptography.  
 It demonstrates the use of:
 - **RSA-2048** for secure public key exchange.
 - **AES-256 (CFB mode)** for encrypting chat messages after key exchange.
@@ -101,10 +101,6 @@ README.md       # Project documentation
 ---
 <img width="1919" height="805" alt="image" src="https://github.com/user-attachments/assets/e639080e-cbc4-44c7-bfef-cf75a0b0a16c" />
 
-
-
-## 📜 License
-This project is for academic purposes only under the CSE722 course at BRAC University.
 
 ---
 
