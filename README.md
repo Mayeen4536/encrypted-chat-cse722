@@ -1,4 +1,4 @@
-# CSE722 Project — Encrypted Chat Application (RSA + AES-256)
+# Project — Encrypted Chat Application (RSA + AES-256)
 
 ## Overview
 This project is a **two-way encrypted chat application** built in Python for the CSE722 Applied Cryptography course.  
@@ -109,6 +109,5 @@ This project is for academic purposes only under the CSE722 course at BRAC Unive
 ---
 
 ## 👤 Author
-- **Name:** Mayeen Abedin Sajid  
-- **ID:** 24266036  
-- **Course:** CSE722 Applied Cryptography
+- **Name:** Mayeen Abedin Sajid   
+- **Course:** Applied Cryptography
